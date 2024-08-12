@@ -28,24 +28,63 @@
             }
           },
           {
-            "id": "fd30835080428de7",
+            "id": "2b68b6dc2a1c28f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeating Tasks.md",
+                "file": "Genshin To-do List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b68b6dc2a1c28f8",
+            "id": "460d299fb5162536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-31.md",
+                "file": "Daily Notes/2024-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c791d3c624c6507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "House Maintenance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba68d9ad1b659bad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "93974fb3e4feded3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -89,7 +128,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#gaming/genshin",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -118,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9fdd24ddb9fe72b7",
@@ -130,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024-07-31.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +186,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024-07-31.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +198,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024-07-31.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -176,11 +215,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b68b6dc2a1c28f8",
+  "active": "93974fb3e4feded3",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "Testing Images.md",
+    "House Maintenance.md",
+    "Daily Notes/2024-08-02.md",
+    "Genshin Priority List.md",
+    "Genshin To-do List.md",
+    "Daily Notes/2024-07-31.md",
     "README.md",
     "Daily Notes/2024-07-21.md",
-    "Daily Notes/2024-07-31.md",
     "Repeating Tasks.md",
     "Daily Notes/2024-07-30.md",
     "Daily Notes/2024-07-29.md",
@@ -189,24 +235,16 @@
     "Daily Notes/2024-07-26.md",
     "Daily Notes/2024-07-25.md",
     "Daily Notes/2024-07-24.md",
-    "Untitled.canvas",
     "Daily Notes/2024-07-23.md",
     "Daily Notes/2024-07-17.md",
-    "Genshin To-do List.md",
     "Daily Notes/2024-07-20.md",
     "Daily Notes/2024-07-14.md",
     "Daily Notes/2024-07-15.md",
     "Daily Notes/2024-07-19.md",
     "Daily Notes/2024-07-18.md",
     "Daily Notes/2024-07-16.md",
-    "Templates/Daily Notes Template.md",
-    "Daily Notes/2024-07-14 (Backup).md",
-    "Implementing Date Template.md",
-    "Templates/Testing Date Template.md",
     "Templates",
-    "Test daily notes for 15.md",
     "Daily Notes",
-    "Testing what happens if I complete a recurring task.md",
     "Repeating Tasks"
   ]
 }
