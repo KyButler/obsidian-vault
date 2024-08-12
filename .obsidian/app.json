@@ -14,5 +14,6 @@
     "editor:redo",
     "editor:insert-embed",
     "editor:configure-toolbar"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4244113fe7a9ea9a",
+        "id": "644e77f2bdd20cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "3dcee54eb8b616ed",
+            "id": "9f572d8b48ca5a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🐈 Linus/🐈 Immunizations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3110c4638a1bc6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🐈 Linus/🐈 Linus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🐈 Linus/🐈 Linus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🐈 Linus/🐈 Linus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🐈 Linus/🐈 Linus.md"
               }
             }
           }
@@ -146,9 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dcee54eb8b616ed",
+  "active": "3110c4638a1bc6c4",
   "lastOpenFiles": [
-    "Repeating Tasks.md",
-    "README.md"
+    "🐈 Linus/🐈 Immunizations.md",
+    "🐈 Linus/🐈 Linus.md",
+    "🐈 Linus/🐈 Weight.md",
+    "🐈 Linus",
+    "🐈 Cats/🐈 Linus.md",
+    "🐈 Cats.md",
+    "🐈 Cats",
+    "Pasted image 20240807155005.png",
+    "Untitled.md",
+    "PARA/Archive/Resource",
+    "PARA/Archive/Area",
+    "PARA/Archive/Project",
+    "PARA/Archive",
+    "PARA/Resource",
+    "PARA/Untitled.md",
+    "PARA/Area",
+    "PARA/Project",
+    "PARA",
+    "Untitled.canvas",
+    "Genshin To-do List.md",
+    "Testing Images.md",
+    "House Maintenance.md",
+    "Genshin Priority List.md",
+    "Daily Notes/2024-08-02.md",
+    "Gaming.md",
+    "Templates/Daily Notes Template.md",
+    "Daily Notes/2024-07-31.md",
+    "README.md",
+    "Repeating Tasks.md"
   ]
 }
