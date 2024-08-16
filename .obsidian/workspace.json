@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "644e77f2bdd20cd3",
+        "id": "da42fbd7de70ae8f",
         "type": "tabs",
         "children": [
           {
-            "id": "9f572d8b48ca5a89",
+            "id": "6dfc381c445ff207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐈 Linus/🐈 Immunizations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3110c4638a1bc6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐈 Linus/🐈 Linus.md",
+                "file": "👩‍💻 Shane Project/👩‍💻 s1color.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐈 Linus/🐈 Linus.md",
+                "file": "👩‍💻 Shane Project/👩‍💻 s1color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐈 Linus/🐈 Linus.md",
+                "file": "👩‍💻 Shane Project/👩‍💻 s1color.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐈 Linus/🐈 Linus.md"
+                "file": "👩‍💻 Shane Project/👩‍💻 s1color.md"
               }
             }
           }
@@ -159,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3110c4638a1bc6c4",
+  "active": "6dfc381c445ff207",
   "lastOpenFiles": [
+    "👩‍💻 Shane Project/👩‍💻 slCallback.md",
+    "👩‍💻 Shane Project/👩‍💻 Style Notes (for Shane).md",
+    "👩‍💻 Shane Project/👩‍💻 Overview.md",
+    "👩‍💻 Shane Project/👩‍💻 s1color.md",
+    "👩‍💻 Shane Project/🧑‍💻 Shane Docs.md",
+    "README.md",
+    "👩‍💻 Shane Project",
     "🐈 Linus/🐈 Immunizations.md",
     "🐈 Linus/🐈 Linus.md",
+    "🐈 Linus/🐈 About.md",
     "🐈 Linus/🐈 Weight.md",
     "🐈 Linus",
     "🐈 Cats/🐈 Linus.md",
@@ -178,7 +173,6 @@
     "PARA/Untitled.md",
     "PARA/Area",
     "PARA/Project",
-    "PARA",
     "Untitled.canvas",
     "Genshin To-do List.md",
     "Testing Images.md",
@@ -188,7 +182,6 @@
     "Gaming.md",
     "Templates/Daily Notes Template.md",
     "Daily Notes/2024-07-31.md",
-    "README.md",
     "Repeating Tasks.md"
   ]
 }
