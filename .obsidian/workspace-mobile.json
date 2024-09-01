@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cash Box Windblume.md",
+                "file": "cash box NDK.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cash Box Windblume.md",
+            "file": "cash box NDK.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cash Box Windblume.md",
+            "file": "cash box NDK.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -198,7 +198,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cash Box Windblume.md"
+            "file": "cash box NDK.md"
           }
         }
       }
@@ -217,9 +217,10 @@
   },
   "active": "93974fb3e4feded3",
   "lastOpenFiles": [
-    "Funny count.md",
-    "windblume Banner.md",
     "Cash Box Windblume.md",
+    "cash box NDK.md",
+    "windblume Banner.md",
+    "Funny count.md",
     "Untitled.md",
     "👩‍💻 Shane Project/🧑‍💻 Shane Docs.md",
     "👩‍💻 Shane Project/👩‍💻 slCallback.md",
@@ -249,7 +250,6 @@
     "Testing Images.md",
     "House Maintenance.md",
     "Daily Notes/2024-08-02.md",
-    "Genshin Priority List.md",
     "Templates",
     "Daily Notes",
     "Repeating Tasks"
