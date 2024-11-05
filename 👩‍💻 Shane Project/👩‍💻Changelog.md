@@ -31,3 +31,14 @@ toggle json should take jsonobjct summarydata or whatever results are coming bac
 This should do this
 
 
+40inch
+67inch
+38inch
+
+Uhaul van is
+9.6 long = 106inch
+5'1 x 4'1 opening
+
+61inchx
+49inch
+

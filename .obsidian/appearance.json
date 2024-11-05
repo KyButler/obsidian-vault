@@ -2,5 +2,6 @@
   "accentColor": "#ff7a95",
   "cssTheme": "",
   "interfaceFontFamily": "Google Sans",
-  "baseFontSize": 13
+  "baseFontSize": 30,
+  "baseFontSizeAction": true
 }

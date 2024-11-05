@@ -7,7 +7,8 @@ Please pay back Bek 205 + ATM fee of 4.50 + 222 shirts
 
 1,139 at end of Sunday, so 851 cash 
 
-
+Bwll
+#1970931
 
 
 Boothill Standee
@@ -16,3 +17,22 @@ Boothill Standee
 Princess Quest
 Mushroom Witch
 Fire Witch
+
+Bek needs 431.5
+I need 43
+
+220
+103
+323 starting
+834 ending 
+511 friday
+607 Saturday 
+526 Sunday 
+
+
+931
+361 793 2061
+
+
+
+
