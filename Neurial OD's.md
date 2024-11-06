@@ -1,0 +1,11 @@
+- Symptoms
+- VOG
+	- Performed Yes/No
+	- Target Image options
+	- Target Size (string)
+- C3Logix
+	- Put it in the way I have it
+- Vitals
+	- write up
+	- guess two hidden fields
+- saccodeter
