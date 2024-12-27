@@ -1,0 +1,11 @@
+- Pay back
+- Ship Alhaitham to Alhaitham
+- Ship Jane Doe Standee
+	- 156930 Schroeder Dr, Wausau WI 54403
+	- Tristano Pesavento
+	- 920 312 6066
+- Bring Qiqi, klee, kazuha to kamicon, bring eulas to kami, definitely bring Nicole's since someone pre ordered
+- Topaz Standee 
+	- Anthony Saputo
+	- 772 469 6911
+	- 2190 Thames Road SE, Palm Bay, FL 32909

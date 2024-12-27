@@ -1,0 +1,2 @@
+- Skirt and Shorts separated
+- Sow the zipper back onto the shorts

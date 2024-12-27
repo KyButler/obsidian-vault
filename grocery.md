@@ -1,0 +1,9 @@
+- [x] V8
+- [x] Sweet bread
+- [x] Tea
+- [ ] Miracle whip
+- [ ] Egg salad
+- [x] Cheese and crackers
+- [x] Gogurt 
+- [x] Uncrushable pink / brown
+- [x] Santa hat
