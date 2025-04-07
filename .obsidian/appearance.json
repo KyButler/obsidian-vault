@@ -1,7 +1,8 @@
 {
   "accentColor": "#ff7a95",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Google Sans",
   "baseFontSize": 30,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "textFontFamily": "Inter"
 }
