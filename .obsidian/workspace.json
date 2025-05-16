@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "53ea5999b2f5c5ba",
+        "id": "b64013dddcb1fca7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea25dfba58511051",
+            "id": "6e77c68b102386cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -36,8 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.50260543823242
+    "width": 200
   },
   "right": {
     "id": "c4623257fa87c8cd",
@@ -155,21 +156,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea25dfba58511051",
+  "active": "6e77c68b102386cd",
   "lastOpenFiles": [
-    "AWS Well Architected Framework.md",
-    "Welcome!.md",
-    "Dale and Dawson Players.md",
-    "Breakfast Order.md",
-    "Cash Box.md",
-    "Bellco Member Number.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "temp.md",
-    "Salt Lake FanX.md",
-    "Ring Size.md",
-    "Pasted image 20240807155005.png",
     "🐈 Linus/🐈 About.md",
     "Neurial OD's.md",
     "🐈 Linus/🐈 Immunizations.md",
@@ -180,15 +168,28 @@
     "Genshin To-do List.md",
     "Genshin Priority List.md",
     "Funny count.md",
+    "Dale and Dawson Players.md",
     "daily house for reauna.md",
     "Templates/Daily Notes Template.md",
     "Daily Notes/2024-07-29.md",
     "Daily Notes/2024-08-02.md",
+    "Daily Notes/2024-07-23.md",
+    "Daily Notes/2024-07-16.md",
+    "Untitled.md",
     "Untitled.canvas",
+    "Distance Comparison.md",
+    "Bellco Member Number.md",
+    "current.md",
+    "count banners for salt lake.md",
+    "Banners.md",
+    "🚗 Cars/🚗 Kia Sorento Maintenance.md",
     "🚗 Cars",
+    "temp.md",
+    "Untitled 2.md",
     "👩‍💻 Shane Project",
     "🐈 Linus",
     "🐈 Cats",
+    "Pasted image 20240807155005.png",
     "PARA/Archive/Resource",
     "PARA/Archive/Area",
     "PARA/Archive/Project",

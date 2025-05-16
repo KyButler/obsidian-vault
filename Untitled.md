@@ -19,6 +19,13 @@ Flooring 2 boxes USPS: (7778 2574 9430)
 
 HSM-9GTV2VL76D
 
+Small fry small chocolate frosty
+10pc spicy chicken small fry small chocolate frosty
+
+ranch
+sweet and sour
+
+
 https://www.instagram.com/frandan.art?igsh=enR0ZXNmZzZscmMw
 
 ![[Pasted image 20240807155005.png]]

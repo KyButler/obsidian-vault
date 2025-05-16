@@ -4,150 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9e178f40b70f56b0",
+        "id": "49c90665fdd8bd73",
         "type": "tabs",
         "children": [
           {
-            "id": "20e104aea4c17dfe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "130f0b1b2e1aede0",
+            "id": "6fb2b01604f7d067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes Template.md",
+                "file": "Bellco Member Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "Bellco Member Number"
             }
           },
           {
-            "id": "2b68b6dc2a1c28f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genshin To-do List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genshin To-do List"
-            }
-          },
-          {
-            "id": "460d299fb5162536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-08-02"
-            }
-          },
-          {
-            "id": "0c791d3c624c6507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Maintenance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "House Maintenance"
-            }
-          },
-          {
-            "id": "ba68d9ad1b659bad",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "93974fb3e4feded3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚗 Cars/🚗 Kia Sorento Maintenance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🚗 Kia Sorento Maintenance"
-            }
-          },
-          {
-            "id": "bd64306bb21d9857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ordered.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordered"
-            }
-          },
-          {
-            "id": "d0ff64f9c3faf712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fdd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fdd"
-            }
-          },
-          {
-            "id": "a1bf7ce241328c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mandy Owes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mandy Owes"
-            }
-          },
-          {
-            "id": "bafd7da4adf51315",
+            "id": "a4e716190ef47e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,21 +36,35 @@
             }
           },
           {
-            "id": "a046f41418e0ad04",
+            "id": "f5ebc55d14471b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doordash.md",
+                "file": "Cash Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doordash"
+              "title": "Cash Box"
             }
           },
           {
-            "id": "5d20780254d177d0",
+            "id": "095d19598f469e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cash Box.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cash Box"
+            }
+          },
+          {
+            "id": "ee833d1088094add",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,7 +78,7 @@
             }
           },
           {
-            "id": "9c30ea1519b47761",
+            "id": "f4e246a791649ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,66 +89,10 @@
               },
               "icon": "lucide-file",
               "title": "Bellco Member Number"
-            }
-          },
-          {
-            "id": "27f4ab25b3cb1728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources to buy before salt lake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources to buy before salt lake"
-            }
-          },
-          {
-            "id": "fc151e2792702960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Text"
-            }
-          },
-          {
-            "id": "6b47b9eaf3f9c3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leighton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leighton"
-            }
-          },
-          {
-            "id": "eeff34eb3b02827d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-07-31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-07-31"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,7 +107,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -321,7 +155,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9fdd24ddb9fe72b7",
@@ -385,35 +219,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bafd7da4adf51315",
+  "active": "8d9c651fc7bc835a",
   "lastOpenFiles": [
-    "Bellco Member Number.md",
-    "Doordash.md",
-    "For Mandy.md",
-    "Untitled 2.md",
     "Cash Box.md",
-    "fdd.md",
-    "Booths.md",
-    "Breakfast Order.md",
-    "Mandy Owes.md",
+    "🚗 Cars/🚗 Kia Sorento Maintenance.md",
+    "Bellco Member Number.md",
+    "For Truman.md",
+    "For Mandy.md",
+    "4sv Links.md",
+    "Houses to See.md",
+    "UHC Reward Cards.md",
     "Untitled",
-    "grocery.md",
-    "Libero Art Studio.md",
-    "note.md",
-    "Dee's Windshield Wipers.md",
-    "🐈 Linus/🐈 Immunizations.md",
-    "daily house for reauna.md",
     "Cheapest Places to buy Items.md",
-    "Bek's Kirara.md",
-    "Genshin To-do List.md",
-    "Genshin Priority List.md",
-    "Funny count.md",
-    "Minecraft.md",
-    "🐈 Linus/🐈 Weight.md",
-    "temp.md",
-    "🐈 Linus/🐈 About.md",
-    "Grocery List.md",
-    "Dale and Dawson Players.md",
+    "Untitled 6.md",
+    "Untitled.md",
+    "Daily Notes/2025-02-15.md",
+    "Leighton.md",
+    "Templates/Daily Notes Template.md",
+    "shopping list.md",
+    "Templates",
+    "Daily Notes",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Mandy Owes.md",
+    "Untitled 3.md",
+    "Marshy Weight.md",
+    "Wifi.md",
+    "Lost cat.md",
+    "Bagel spa day.md",
+    "Country Lane Lodge.md",
+    "Doordash.md",
+    "Untitled 2.md",
     "Untitled.canvas",
     "🚗 Cars",
     "People",
@@ -423,8 +259,6 @@
     "/Pasted image 20240807155005.png",
     "🐈 Linus",
     "/🐈 Linus",
-    "Templates",
-    "Daily Notes",
-    "Repeating Tasks"
+    "Templates"
   ]
 }
