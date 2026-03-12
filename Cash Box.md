@@ -72,3 +72,32 @@ $134 sun
 
 911
 
+308 starting anime iowa
+1254 cash froday
+1494 cash saturday
+
+
+
+360 starting windblume
+534 Cash Friday
+200 Venmo Friday 
+50 cash app Friday 
+80 PayPal Friday 
+200 Zelle Friday 
+
+652 Cash Saturday
+280 Venmo Saturday
+32 cashapp
+
+167 cash Sunday
+80 PayPal Sunday
+15 Venmo Sunday 
+
+Total for windblume 8,435
+
+Dakota owes me money
+
+575 start
+827 profit Friday 5323 total
+1085 sat (32 cashapp) 5419 total
+637 cash Sunday 4302 total

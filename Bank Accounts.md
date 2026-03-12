@@ -1,0 +1,5 @@
+- Bekah
+	- Wells Fargo
+		- Checking
+			- 3029612474
+			- 073000228

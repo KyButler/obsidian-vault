@@ -90,9 +90,233 @@
               "icon": "lucide-file",
               "title": "Bellco Member Number"
             }
+          },
+          {
+            "id": "00b60b383576638c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bank Accounts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bank Accounts"
+            }
+          },
+          {
+            "id": "fcde52adf1df64a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oil"
+            }
+          },
+          {
+            "id": "e42c286e16ecbf11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "House things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House things"
+            }
+          },
+          {
+            "id": "78c7ec4af3d5bee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bills/Midland Mortgage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Midland Mortgage"
+            }
+          },
+          {
+            "id": "e55f81ae80fed8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "38996651703df7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cash Box.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cash Box"
+            }
+          },
+          {
+            "id": "b8872706c2c06149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "temp"
+            }
+          },
+          {
+            "id": "244362903c3f4e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bellco Member Number.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bellco Member Number"
+            }
+          },
+          {
+            "id": "6a39be2b775cc28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚗 Cars/Nissan Murano.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nissan Murano"
+            }
+          },
+          {
+            "id": "bf0f4539a0c95466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bellco Member Number.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bellco Member Number"
+            }
+          },
+          {
+            "id": "e265fcf6b404a262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Rebekah Groves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rebekah Groves"
+            }
+          },
+          {
+            "id": "e571cdb95f96cc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSA"
+            }
+          },
+          {
+            "id": "2c78772ac5feccf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Booths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Booths"
+            }
+          },
+          {
+            "id": "8aa1b526018972f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "5596385eea5183c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚗 Cars/Nissan Murano.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nissan Murano"
+            }
+          },
+          {
+            "id": "6d0e4504129ddb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bellco Member Number.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bellco Member Number"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -211,6 +435,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -219,37 +444,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d9c651fc7bc835a",
+  "active": "6d0e4504129ddb90",
   "lastOpenFiles": [
-    "Cash Box.md",
+    "Booths.md",
     "🚗 Cars/🚗 Kia Sorento Maintenance.md",
-    "Bellco Member Number.md",
-    "For Truman.md",
-    "For Mandy.md",
-    "4sv Links.md",
-    "Houses to See.md",
-    "UHC Reward Cards.md",
-    "Untitled",
-    "Cheapest Places to buy Items.md",
     "Untitled 6.md",
+    "Kia Soul.md",
+    "🚗 Cars/🚗 WRX Maintenance.md",
+    "🚗 Cars/Nissan Murano.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "AC.md",
+    "Random.md",
+    "TSA.md",
+    "Gift Ideas.md",
+    "Cash Box.md",
+    "grocery.md",
+    "temp.md",
+    "Bellco Member Number.md",
+    "Cake Tasting Creme.md",
+    "Oil.md",
+    "Insurance.md",
+    "2PC plan.md",
+    "Salt Lake FanX.md",
+    "Ordered.md",
+    "Planet Anime 2024.md",
     "Untitled.md",
-    "Daily Notes/2025-02-15.md",
-    "Leighton.md",
-    "Templates/Daily Notes Template.md",
-    "shopping list.md",
+    "Untitled 7.md",
+    "People/Rebekah Groves.md",
+    "Untitled 1",
+    "Untitled",
+    "Bills",
     "Templates",
     "Daily Notes",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Mandy Owes.md",
-    "Untitled 3.md",
-    "Marshy Weight.md",
-    "Wifi.md",
-    "Lost cat.md",
-    "Bagel spa day.md",
-    "Country Lane Lodge.md",
-    "Doordash.md",
-    "Untitled 2.md",
     "Untitled.canvas",
     "🚗 Cars",
     "People",
@@ -257,8 +484,6 @@
     "/👩‍💻 Shane Project",
     "Pasted image 20240807155005.png",
     "/Pasted image 20240807155005.png",
-    "🐈 Linus",
-    "/🐈 Linus",
-    "Templates"
+    "🐈 Linus"
   ]
 }
