@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b64013dddcb1fca7",
+        "id": "806b1f4522f40951",
         "type": "tabs",
         "children": [
           {
-            "id": "6e77c68b102386cd",
+            "id": "1cec90bdcd4d226e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "CachyOS/Setup KDEConnect.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Setup KDEConnect"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -148,6 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e77c68b102386cd",
+  "active": "1cec90bdcd4d226e",
   "lastOpenFiles": [
+    "Untitled 10.md",
+    "CachyOS/Setup KDEConnect.md",
+    "CachyOS",
     "🐈 Linus/🐈 About.md",
     "Neurial OD's.md",
     "🐈 Linus/🐈 Immunizations.md",
@@ -184,8 +191,6 @@
     "Banners.md",
     "🚗 Cars/🚗 Kia Sorento Maintenance.md",
     "🚗 Cars",
-    "temp.md",
-    "Untitled 2.md",
     "👩‍💻 Shane Project",
     "🐈 Linus",
     "🐈 Cats",
@@ -194,7 +199,6 @@
     "PARA/Archive/Area",
     "PARA/Archive/Project",
     "PARA/Archive",
-    "PARA/Resource",
-    "PARA/Area"
+    "PARA/Resource"
   ]
 }
