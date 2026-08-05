@@ -101,3 +101,117 @@ Dakota owes me money
 827 profit Friday 5323 total
 1085 sat (32 cashapp) 5419 total
 637 cash Sunday 4302 total
+
+COAF Start - 500
+ 1144 cash friday
+ 582 cash Sunday cashapp 40 
+
+
+
+
+Cash box las Vegas
+7 1s, 13 5s?
+
++83 1s
+
+
+
+72 in the cash box to start
+554 actual start with mom contribution to 
+2311 cash friday,  16 cashapp
+2804 cash Saturday, 32 cashapp
+
+482
+
+trumangroves86@gmail.com
+A577226b!
+
+
+MidnyteCraestSpell
+Arlecchinon
+
+When I see a guy dressing up as a girl I black out - 4/25/2026 David at Lvl up
+
+Shorekeeper
+Yinlin
+Female rover
+Aemeath
+Ciaccona
+
+Mandy gave 1687 to tax man and now our cash box is 39 dollars less than it started which means we made 1687-39. 
+
+1648 cash Sunday
+
+
+425 start Denver fan expo
+1375 cash Thursday (4266.5 total today!)
+1403 cash Friday (20 venmo)
+1711 cash Saturday 
+1149 cash Sunday (345 venmo/paypal)
+
+
+Ayacon https://createaya.org/aya-con october
+
+
+
+**Genshin**
+Dottore x6
+
+Citlali x3
+Iluga x3
+Linnea x3
+Lohen x3
+Mualani x3
+Nefer x3
+
+Chasca x2
+Ineffa x2
+Pantalone x2
+
+Kachina
+Kathryn
+Rerir
+Sandrone
+
+**HSR**
+Anaxa x3
+
+Jing Liu x2
+Sparxie x2 
+
+Castorice
+Gepard
+Huohuo
+Juaoqiu
+Little Ica
+Mem
+
+**ZZZ**
+Miyabi x2
+
+Alice
+Caesar King
+Evelyn
+Hugo
+Ju Fufu
+Monato (regular)
+Seth
+Trigger
+Vivian
+
+
+SCP bigger armor full mask heavier gear stopped by to talk again
+
+
+317 start of anime iowa
+
+1293 Friday + 96 paypal
+1191 + 40 cashapp +207.53 venmo
+596 cash profit
+
+
+Michigan
+1800 524 0149
+
+1800 524 0149
+

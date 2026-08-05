@@ -5,5 +5,9 @@ Breed: DSH
 Coat Color: Black
 Micro Chip: 985113009047799
 
-Immunization Record: [[🐈 Immunizations]]
-Weight History: [[🐈 Weight]]
+# Immunizations
+- 2024-08-12 - Rabies
+- 2024-08-12 - FVRCP
+
+# Weight 
+- 2024-08-12 - 12.26 lbs.

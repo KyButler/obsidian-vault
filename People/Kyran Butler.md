@@ -1,1 +1,0 @@
-Affinity CU Member Number: 178715

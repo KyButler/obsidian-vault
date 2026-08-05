@@ -1,5 +1,15 @@
-Cat litter
-Rachael rays
-Whipped cream
-Oatmeal cups
-Linus wet food
+Menards
+Paper Towels
+
+Target
+Wet Wipes
+
+Staples
+Return
+
+Walmart
+Cat Litter
+
+
+650
+650

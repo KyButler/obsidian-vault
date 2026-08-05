@@ -1,9 +1,10 @@
 
 5 Quarts 5w-30 high mileage synthetic
-FRAM XG10855
+FRAM XG10855  - comes with washer
 advance Auto parts m14 095147
 2040 super tech engine air filter
 
+5/9/2026 -  187147 oil and oil filter
 2/7/2026 - 179,358 Oil, filter, air filter, engine air filter
 
 10/30/2025 - 170,157 Miles - Oil change
