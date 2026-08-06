@@ -11,10 +11,14 @@
             "id": "54a9361d9fcdc271",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-08-05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-08-05"
             }
           }
         ]
@@ -32,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "alphabeticalReverse",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
@@ -147,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d9c651fc7bc835a",
+  "active": "54a9361d9fcdc271",
   "lastOpenFiles": [
     "/Random.md",
     "/Daily Notes/2026-08-05.md",
