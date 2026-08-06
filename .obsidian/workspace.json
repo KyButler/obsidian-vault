@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e64620093b0fd6b0",
+        "id": "2c6a491e57f00216",
         "type": "tabs",
         "children": [
           {
-            "id": "0b65ab67bc9ebec0",
+            "id": "3e95ec1dc7a13731",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Daily Notes/2026-08-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2026-08-06"
             }
           }
         ]
@@ -161,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b65ab67bc9ebec0",
+  "active": "3e95ec1dc7a13731",
   "lastOpenFiles": [
+    "Daily Notes/2026-08-06.md",
     "Untitled.base",
     "Daily Notes/2026-08-05.md",
-    "Daily Notes/2026-08-06.md",
     "Templates/Daily Notes Template.md",
     "Daily Notes/2026-06-06.md",
     "Daily Notes/Invalid date.md",
@@ -199,7 +200,6 @@
     "PARA/Archive/Resource",
     "PARA/Archive/Area",
     "PARA/Archive/Project",
-    "PARA/Archive",
-    "PARA/Resource"
+    "PARA/Archive"
   ]
 }
