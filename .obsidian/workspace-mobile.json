@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-09-01.md",
+                "file": "Daily Notes/2026-09-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "2026-09-02"
             }
           }
         ]
@@ -153,9 +153,10 @@
   },
   "active": "54a9361d9fcdc271",
   "lastOpenFiles": [
+    "Daily Notes/2026-09-01.md",
+    "Daily Notes/2026-09-02.md",
     "Daily Notes/2026-08-07.md",
     "Daily Notes/2026-08-31.md",
-    "Daily Notes/2026-09-01.md",
     "🚗 Cars/🚗 Kia Sorento Maintenance.md",
     "Couch.md",
     "Dale and Dawson Players.md",
@@ -181,7 +182,6 @@
     "Random.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Bellco Member Number.md",
     "Untitled",
     "CachyOS",
     "/CachyOS",
